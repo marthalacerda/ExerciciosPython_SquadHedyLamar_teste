@@ -1,5 +1,4 @@
 ﻿# Exercício 9
-n = -1
 n_pares = 0
 n_impares = 0
 n = int(input('Insira um número inteiro (ou 0 para sair): '))
