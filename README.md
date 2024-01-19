@@ -13,7 +13,7 @@
 <br>
 <br>
 
- Participantes:
+## Participantes:
 - Amanda Dias Alves Ferreira
 - Gabriella Moreira Mansur Mesquita
 - Jéssica Cristina Machado Da Silva
@@ -25,6 +25,13 @@
 - Sara Neves
 - Martha Lacerda Emidio Da Silva
 - Mariana Santana Amaral
+
+
+<br>
+<br>
+
+## Organização:
+<p align="center"> Criamos uma planilha online com as informações das questões, e assim cada uma pode ir selecionando as questões que foram fazendo e assinalando como "FEITO"!</p>
 
 
 <br>
