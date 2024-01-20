@@ -5,10 +5,10 @@ Exercicios Tomada Decisão
 '''
 
 numero1 = int(input('Digite o primeiro número: '))
-numero2 = int(input('Digite o primeiro número: '))
+numero2 = int(input('Digite o segundo número: '))
 
 if numero1 > numero2:
-    T("O primeiro número digitado é o maior.")
+    print("O primeiro número digitado é o maior.")
 elif numero2 > numero1:
     print("O segundo número digitado é o maior.")
 else:
