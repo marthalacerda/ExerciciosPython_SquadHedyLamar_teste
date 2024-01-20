@@ -34,7 +34,7 @@
 <p align="center"> Criamos uma planilha online com as informações das questões, e assim cada uma pode ir selecionando as questões que foram fazendo e assinalando como "FEITO"!</p>
 
 <table id="tabela" align="center">
-    <caption align="center"><strong>Acompanhamento Exercícios Python WoMakersCode</strong></caption>
+    
     <tr>
         <td><strong>Lista Conceitos Iniciais</strong></td>
         <td><strong>Responsável</strong></td>
