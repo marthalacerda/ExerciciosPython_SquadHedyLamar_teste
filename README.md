@@ -33,21 +33,6 @@
 ## Organização:
 <p align="center"> Criamos uma planilha online com as informações das questões, e assim cada uma pode ir selecionando as questões que foram fazendo e assinalando como "FEITO"!</p>
 
-<table id="tabela" align="center">
-    
-    <tr>
-        <td><strong>Lista Conceitos Iniciais</strong></td>
-        <td><strong>Responsável</strong></td>
-        <td><strong>Status</strong></td>
-    </tr>
-    <tr>
-        <td>Exercício1</td>
-        <td>Jhenyffer</td>
-        <td>Feito</td>
-    </tr>
-
-    
-</table>
 
 <br>
 <br>
