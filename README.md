@@ -35,11 +35,18 @@
 
 <table id="tabela">
     <caption style="color: yellowgreen;"><strong>Acompanhamento Exercícios Python WoMakersCode</strong></caption>
-      <tr>
-          <td><strong>Lista Conceitos Iniciais</strong></td>
-          <td><strong>Responsável</strong></td>
-          <td><strong>Status</strong></td>
-      </tr>
+    <tr>
+        <td><strong>Lista Conceitos Iniciais</strong></td>
+        <td><strong>Responsável</strong></td>
+        <td><strong>Status</strong></td>
+    </tr>
+    <tr>
+        <td>Exercício1</td>
+        <td>Jhenyffer</td>
+        <td>Feito</td>
+    </tr>
+
+    
 </table>
 
 <br>
