@@ -8,7 +8,7 @@
 # ● Renda acima de R$ 4.664,68: alíquota máxima de 27,5%.
 
 def calculaSalarioLiquido(renda, percentual):
-  return float("{:.2f}".format(renda * percentual /100))
+  return renda - float("{:.2f}".format(renda * percentual /100))
 
 renda = float(input('Informe a renda:\n'))
 
