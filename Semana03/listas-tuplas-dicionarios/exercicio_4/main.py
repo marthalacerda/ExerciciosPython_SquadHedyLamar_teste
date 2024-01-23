@@ -15,13 +15,14 @@ def procurar_contato():
         
     # Procura no dicionário contatos o nome digitado pelo usuário
     for i in contatos:
-        # Se o nome é encontrado, imprime na tela e retorna a função
+        # Se o nome é encontrado, imprime na tela e para o for loop
         if nome == i:
             print(f"O telefone de {nome} é {contatos[nome]}")
-            return
+            break
     
     # Depois de ter procurado todo o dicionário contatos, sem achar o nome, imprime a mensagem
-    print("O nome procurado não consta na lista de contatos")
+    else:
+        print("O nome procurado não consta na lista de contatos")
         
         
 # Chama a função
